@@ -8,6 +8,8 @@ public:
     char gmail[40];
     char name[30];
     dnode *prev, *next;
+    //heklo world
+    
     dnode(char n[], char r[], char g[])
     {
         //hello
