@@ -13,6 +13,7 @@ public:
     dnode(char n[], char r[], char g[])
     {
         //hello
+        //hello
         strcpy(name, n);
         strcpy(number, r);
         strcpy(gmail, g);
