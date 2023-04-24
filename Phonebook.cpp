@@ -10,6 +10,7 @@ public:
     dnode *prev, *next;
     dnode(char n[], char r[], char g[])
     {
+        //hello
         strcpy(name, n);
         strcpy(number, r);
         strcpy(gmail, g);
