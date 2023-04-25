@@ -4,7 +4,7 @@
 using namespace std;
 class dnode
 {
-    //I have enabled web hooks
+    //I have enabled web hook
 public:
     char number[50];
     char gmail[40];
